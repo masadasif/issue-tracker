@@ -23,6 +23,7 @@ production:
   database: defaultdb
   username: doadmin
   password: "jIvuwPsIcNe6L987"
+  url: mysql2://doadmin:jIvuwPsIcNe6L987@db-mysql-sgp1-80282-do-user-9830958-0.b.db.ondigitalocean.com:25060/defaultdb?ssl-mode=REQUIRED
   host: db-mysql-sgp1-80282-do-user-9830958-0.b.db.ondigitalocean.com
   pool: 5
   encoding: utf8mb4
