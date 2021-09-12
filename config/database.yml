@@ -20,7 +20,7 @@ development:
 
 production:
   <<: *default
-  database: issue_tracker_production
-  username: prod_user
-  password: "Asad1234."
-  host: bupa-production.c5pwu9ivdaxg.ap-southeast-2.rds.amazonaws.com
+  database: defaultdb
+  username: doadmin
+  password: "jIvuwPsIcNe6L987"
+  host: db-mysql-sgp1-80282-do-user-9830958-0.b.db.ondigitalocean.com
